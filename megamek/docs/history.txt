@@ -1,6 +1,7 @@
 VERSION HISTORY:
 ----------------
 0.48.1
++ Issue #2710: Shield DC and DA values
 
 0.48.0 (Stable) - (2021-03-05 1530 UTC)
 + PR #2638, #2640: Turret data fixes
